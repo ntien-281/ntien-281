@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Tien</h1>
-<h3 align="center">A front-end developer with the forever urge to advance.</h3>
+<h3 align="center">A front-end developer with a forever urge to advance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntien-281&label=Profile%20views&color=0e75b6&style=flat" alt="ntien-281" /> </p>
 
