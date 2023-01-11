@@ -5,17 +5,16 @@
 
 - 🔭 I’m currently working on [freeCodeCamp front-end qualification](https://github.com/ntien-281/fcc_fe_cert_solutions)
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, Flutter**
+- 🌱 I’m currently learning **ReactJS, ExpressJS, Flutter, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ntien-281?tab=repositories](https://github.com/ntien-281?tab=repositories)
+- 👨‍💻 All of my projects are available at [ntien281-repos](https://github.com/ntien-281?tab=repositories)
 
-- 💬 Ask me about **anything i'm able to help with.**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **nhattien1245@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/văn-nhật-tiến-lý-7b8642237/](https://www.linkedin.com/in/văn-nhật-tiến-lý-7b8642237/)
+- 📄 Know about my experiences [linkedin-profile](https://www.linkedin.com/in/văn-nhật-tiến-lý-7b8642237/)
 
-- ⚡ Fun fact **I am still a student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
