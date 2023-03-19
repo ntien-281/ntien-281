@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntien-281&label=Profile%20views&color=0e75b6&style=flat" alt="ntien-281" /> </p>
 
-- 🔭 I’m currently working on [WDS Output Test](https://github.com/DiiKhanh/fe-test-webdev)
+- 🔭 I’m currently working on A Personal Portfolio
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, Flutter, Typescript**
+- 🌱 I’m currently learning **NextJS, Zustand, SWC, Typescript**
 
 - 👨‍💻 All of my projects are available at [ntien281-repos](https://github.com/ntien-281?tab=repositories)
 
