@@ -15,8 +15,10 @@
 
 - 📄 Know about my experiences [linkedin-profile](https://www.linkedin.com/in/văn-nhật-tiến-lý-7b8642237/)
 
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=10&fontFamily=Cascadia%20code&fontSize=20&lineHeight=10&lineCount=4&theme=one_dark&hideBg=true&line1=React,reactjs,4d36bf;Next.js,nextjs,311a70;MongoDB,mongodb,47A248;Rust,rust,b21010;swc,swc,FFFFFF;&line2=sass,sass,CC6699;bootstrap,bootstrap,7952B3;&line3=obsidian,obsidian,483699;vite,vite,646CFF;redux,redux,764ABC;&line4=flutter,flutter,02569B;" alt="My Tech Stack" />
+</div>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=10&fontFamily=Cascadia%20code&fontSize=20&lineHeight=10&lineCount=4&theme=one_dark&hideBg=true&line1=React,reactjs,4d36bf;Next.js,nextjs,311a70;MongoDB,mongodb,47A248;Rust,rust,b21010;swc,swc,FFFFFF;&line2=sass,sass,CC6699;bootstrap,bootstrap,7952B3;&line3=obsidian,obsidian,483699;vite,vite,646CFF;redux,redux,764ABC;&line4=flutter,flutter,02569B;" alt="My Tech Stack" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
