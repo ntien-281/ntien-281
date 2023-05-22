@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on A Personal Portfolio
 
-- 🌱 I’m currently learning **NextJS, Zustand, SWC, Typescript**
+- 🌱 I’m currently learning **React Native, Typescript**
 
 - 👨‍💻 All of my projects are available at [ntien281-repos](https://github.com/ntien-281?tab=repositories)
 
