@@ -7,19 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntien-281&label=Profile%20views&color=0e75b6&style=flat" alt="ntien-281" /> </p>
 
-- 🔭 I’m currently working on A Personal Portfolio
-
-- 🌱 I’m currently learning **React Native, Typescript**
-
-- 👨‍💻 All of my projects are available at [ntien281-repos](https://github.com/ntien-281?tab=repositories)
-
-- 💬 Ask me about **anything.**
-
-- 📫 How to reach me **nhattien1245@gmail.com**
-
-- 📄 Know about my experiences [linkedin-profile](https://www.linkedin.com/in/văn-nhật-tiến-lý-7b8642237/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/10kevent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/10kevent" height="30" width="40" /></a>
