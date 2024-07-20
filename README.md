@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Tien</h1>
-<h3 align="center">A front-end developer.</h3>
+<h3 align="center">A software developer interested in web, mobile development and machine learning</h3>
 
 <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&borderRadius=10&fontFamily=Cascadia%20code&fontSize=20&lineHeight=10&lineCount=4&theme=one_dark&hideBg=true&line1=React,reactjs,4d36bf;Next.js,nextjs,311a70;MongoDB,mongodb,47A248;Rust,rust,b21010;swc,swc,FFFFFF;&line2=sass,sass,CC6699;bootstrap,bootstrap,7952B3;&line3=obsidian,obsidian,483699;vite,vite,646CFF;redux,redux,764ABC;&line4=flutter,flutter,02569B;" alt="My Tech Stack" />
